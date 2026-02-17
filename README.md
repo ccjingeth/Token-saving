@@ -4,7 +4,7 @@
 
 ## 一行安装（ClawHub）
 ```bash
-clawhub install openclaw-token-optimizer
+clawhub install openclaw-token-save
 ```
 
 安装后重启 OpenClaw 会话即可生效。
