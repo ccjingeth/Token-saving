@@ -1,4 +1,0 @@
-interface:
-  display_name: "OpenClaw Token Optimizer"
-  short_description: "Reduce OpenClaw token usage and cost safely"
-  default_prompt: "Use $openclaw-token-optimizer to audit my OpenClaw setup and propose token-saving changes."

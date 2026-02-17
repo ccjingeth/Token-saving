@@ -1,13 +1,13 @@
 # OpenClaw Token Optimizer Skill
 
-这个仓库提供一个可通过 Skill Installer 一行命令安装的 OpenClaw 省 token 技能。
+这是面向 OpenClaw 的技能（skill）。
 
-## 一行安装命令
+## 一行安装（ClawHub）
 ```bash
-python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo ccjingeth/Token-saving --path skills/openclaw-token-optimizer
+clawhub install openclaw-token-optimizer
 ```
 
-安装完成后请重启 Codex 以加载新技能。
+安装后重启 OpenClaw 会话即可生效。
 
 ## 使用示例
 ```
